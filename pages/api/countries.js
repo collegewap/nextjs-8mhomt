@@ -19,7 +19,7 @@ export default async (req, res) => {
 
     const data = await response.json();
     countries = data.countries.map((item) => ({
-      key: item.country,
+      label: item.country,
       value: item.country,
     }));
   } catch (e) {
