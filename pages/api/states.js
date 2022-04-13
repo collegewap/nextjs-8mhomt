@@ -23,7 +23,7 @@ export default async (req, res) => {
     const data = await response.json();
     states = data.countries
       .find((item) => item.country === req.query.country)
-      .states.map((item) => ({ key: item, value: item }));
+      .states.map((item) => ({ label: item, value: item }));
   } catch (e) {
     console.log(e);
   }
