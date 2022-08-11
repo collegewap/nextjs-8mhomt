@@ -14,7 +14,7 @@ export default async (req, res) => {
 
   const response = {
     templateName: "header",
-    programType: "EC",
+    programType: "Payout",
     version: "1.0",
     formData: {
       type: "Page",
