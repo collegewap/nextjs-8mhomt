@@ -22,7 +22,7 @@ export default async (req, res) => {
     console.log(e);
   }
 
-  res.status(200).json({ country, state: states });
+  res.status(200).json({ country: req.query.country, state: states });
 };
 
 const country_states = [
