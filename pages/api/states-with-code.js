@@ -27,7 +27,7 @@ export default async (req, res) => {
 
 const country_states = [
   {
-    country: "India",
+    country: "IN",
     state: [
       { stateCode: "1", stateName: "Andamans/Nicobar" },
       { stateCode: "3", stateName: "Andhra Pradesh" },
@@ -70,7 +70,7 @@ const country_states = [
     ],
   },
   {
-    country: "United Kingdom",
+    country: "GB",
     state: [
       { stateCode: "67", stateName: "Aberdeenshire" },
       { stateCode: "68", stateName: "Angus" },
