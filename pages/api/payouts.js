@@ -55,7 +55,7 @@ export default async (req, res) => {
         status: "draft",
       },
       {
-        name: "Payout 4",
+        name: "Payout 5",
         createdBy: "john3@example.com",
         connectorName: "Connector 3",
         createdOn: "30 Mar 3023",
@@ -65,7 +65,7 @@ export default async (req, res) => {
         status: "active",
       },
       {
-        name: "Payout 5",
+        name: "Payout 6",
         createdBy: "john3@example.com",
         connectorName: "Connector 3",
         createdOn: "30 Mar 3023",
