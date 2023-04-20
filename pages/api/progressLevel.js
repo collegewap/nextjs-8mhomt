@@ -46,7 +46,7 @@ export default async (req, res) => {
     },
     region: "Americas",
     tab: "currentPath",
-    partnerName: "spp16sepPDcomp",
+    partnerName: "Evergreen Innovations",
     nextLevel: "Platinum",
     lastUpdatedDate: "04-Apr-23",
   };
