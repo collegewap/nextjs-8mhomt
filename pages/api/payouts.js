@@ -38,7 +38,7 @@ export default async (req, res) => {
         name: "Payout 3",
         createdBy: "john3@example.com",
         connectorName: "Connector 3",
-        createdOn: "30 Mar 3023",
+        createdOn: "30 Mar 2023",
         ruleset: {
           name: "Ruleset 3",
         },
@@ -48,7 +48,7 @@ export default async (req, res) => {
         name: "Payout 4",
         createdBy: "john3@example.com",
         connectorName: "Connector 3",
-        createdOn: "30 Mar 3023",
+        createdOn: "30 Mar 2023",
         ruleset: {
           name: "Ruleset 3",
         },
@@ -58,7 +58,7 @@ export default async (req, res) => {
         name: "Payout 5",
         createdBy: "john3@example.com",
         connectorName: "Connector 3",
-        createdOn: "30 Mar 3023",
+        createdOn: "30 Mar 2023",
         ruleset: {
           name: "Ruleset 3",
         },
@@ -68,7 +68,7 @@ export default async (req, res) => {
         name: "Payout 6",
         createdBy: "john3@example.com",
         connectorName: "Connector 3",
-        createdOn: "30 Mar 3023",
+        createdOn: "30 Mar 2023",
         ruleset: {
           name: "Ruleset 3",
         },
