@@ -1,27 +1,27 @@
 export const countries = [
   {
-    name: "United States",
-    code: "US",
+    label: "United States",
+    value: "US",
   },
   {
-    name: "United Kingdom",
-    code: "UK",
+    label: "United Kingdom",
+    value: "UK",
   },
   {
-    name: "Canada",
-    code: "CA",
+    label: "Canada",
+    value: "CA",
   },
   {
-    name: "Australia",
-    code: "AU",
+    label: "Australia",
+    value: "AU",
   },
   {
-    name: "Germany",
-    code: "DE",
+    label: "Germany",
+    value: "DE",
   },
   {
-    name: "Other",
-    code: "OT",
+    label: "Other",
+    value: "OT",
   },
 ];
 
