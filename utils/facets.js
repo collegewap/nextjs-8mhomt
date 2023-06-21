@@ -64,7 +64,7 @@ export const industries = [
   },
   {
     title: "Construction",
-    const: 234,
+    const: 902,
   },
 ];
 
