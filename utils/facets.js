@@ -28,43 +28,43 @@ export const countries = [
 export const industries = [
   {
     title: "Advertising",
-    const: 123,
+    const: "123",
   },
   {
     title: "Automotive",
-    const: 456,
+    const: "456",
   },
   {
     title: "Information Technology",
-    const: 789,
+    const: "789",
   },
   {
     title: "Healthcare",
-    const: 234,
+    const: "234",
   },
   {
     title: "Finance",
-    const: 567,
+    const: "567",
   },
   {
     title: "Hospitality",
-    const: 890,
+    const: "890",
   },
   {
     title: "Retail",
-    const: 345,
+    const: "345",
   },
   {
     title: "Energy",
-    const: 678,
+    const: "678",
   },
   {
     title: "Education",
-    const: 901,
+    const: "901",
   },
   {
     title: "Construction",
-    const: 902,
+    const: "902",
   },
 ];
 
