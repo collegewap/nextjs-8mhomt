@@ -1,6 +1,6 @@
 import Cors from "cors";
 import initMiddleware from "../../../lib/init-middleware";
-import { countries, industries, titles } from "../../../utils/facets";
+import { countries, industries, titles, items } from "../../../utils/facets";
 
 // Initialize the cors middleware
 const cors = initMiddleware(
@@ -13,5 +13,5 @@ const cors = initMiddleware(
 export default async (req, res) => {
   await cors(req, res);
 
-  res.status(200).json({ countries, industries, titles });
+  res.status(200).json({ countries, industries, titles, items });
 };
